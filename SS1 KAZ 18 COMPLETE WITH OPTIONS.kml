@@ -35,20 +35,20 @@
 		</ListStyle>
 	</Style>
 	<Placemark>
-		<name>Prova Git</name>
+		<name>prova2</name>
 		<LookAt>
-			<longitude>51.95873406557652</longitude>
-			<latitude>43.20009843710499</latitude>
+			<longitude>51.96791742679837</longitude>
+			<latitude>43.21655996634434</latitude>
 			<altitude>0</altitude>
-			<heading>-0.008027665913019549</heading>
-			<tilt>41.99804251895058</tilt>
-			<range>11228.3490899989</range>
+			<heading>-0.001739657135553881</heading>
+			<tilt>41.99803962800441</tilt>
+			<range>11227.86658130082</range>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
 		<styleUrl>#msn_red-pushpin</styleUrl>
 		<Point>
 			<gx:drawOrder>1</gx:drawOrder>
-			<coordinates>51.95873406557652,43.200098437105,0</coordinates>
+			<coordinates>51.96791742679837,43.21655996634433,0</coordinates>
 		</Point>
 	</Placemark>
 </Document>
